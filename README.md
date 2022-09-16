@@ -30,7 +30,7 @@
 
 - [x]  Data - __/11/2022
     - Conteúdo: Aula 04 - Gestão da Inovação II
-    -           Aula 05 - Gestão da Inovação III
+    - Conteúdo: Aula 05 - Gestão da Inovação III
 
 ## Atividade Prática NP1 - Valor 2,0 - Apresentação 16/09/2022
 
