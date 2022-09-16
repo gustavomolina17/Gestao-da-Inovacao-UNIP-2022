@@ -23,7 +23,7 @@
 
 ## NP1
 
-- [x]  Data - __ /09/2022
+- [x]  Data - 20/09/2022
     - Conteúdo: Aula 02 - Gestão da Inovação I (slides 1 - 43)
 
 ## Atividade Prática NP1 - Valor 2,0 - Apresentação 16/09/2022
@@ -36,4 +36,4 @@ O tema do trabalho é livre. Os grupos deverão ter no mínimo 3 e no máximo 6 
 
 As apresentações ocorrerão no dia 16/09 (em horário de aula). Um integrante do grupo deverá submeter o arquivo no formulário a seguir: https://forms.office.com/r/AeSGZd81Sa
 
-Qualquer dúvida estou a disposição no Teams.
+
