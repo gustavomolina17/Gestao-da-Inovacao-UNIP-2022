@@ -14,17 +14,23 @@
     - Gestação da Inovação I
 - [x]  Aula 03 - 16/09/2022
     - Atividade prática em Sala (Valor: 2,0)
-- [x]  Aula 04
+- [x]  Aula 04 - 30/09/2022
     - Gestão da Inovação II
-- [x]  Aula 05 
+- [x]  Aula 05 - 14/10/2022
     - Gestão da Inovação III
-- [x]  Aula 06
+- [x]  Aula 06 - 28/10/2022
     - Atividade prática em Sala (Valor: 2,0)
 
 ## NP1
 
 - [x]  Data - 20/09/2022
     - Conteúdo: Aula 02 - Gestão da Inovação I (slides 1 - 43)
+
+## NP2
+
+- [x]  Data - __/11/2022
+    - Conteúdo: Aula 04 - Gestão da Inovação II
+    -           Aula 05 - Gestão da Inovação III
 
 ## Atividade Prática NP1 - Valor 2,0 - Apresentação 16/09/2022
 
