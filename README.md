@@ -26,11 +26,36 @@
 - [x]  Data - 20/09/2022
     - Conteúdo: Aula 02 - Gestão da Inovação I (slides 1 - 43)
 
-## NP2
+## NP2 - Trabalhos Práticos (2,5 cada trabalho)
 
-- [x]  Data - __/11/2022
-    - Conteúdo: Aula 04 - Gestão da Inovação II
-    - Conteúdo: Aula 05 - Gestão da Inovação III
+- [x]  Trabalho 01 - Atividade sobre o filme
+    - Capitalismo: uma estória de amor (2009) – https://www.youtube.com/watch?v=FaMRSjiL4IE
+    - Carne e osso (2011) – https://www.youtube.com/watch?v=imKw_sbfaf0
+    - Terceirizado, um trabalhador brasileiro (2015) – https://www.youtube.com/watch?v=iu5Xhu82fzc
+    - Lixo extraordinario (2013) – https://www.youtube.com/watch?v=V-
+    
+ - [x] Trabalho 02 - Seminário
+    - O banqueiro dos pobres: https://goo.gl/uvXHvi
+    - Moedas sociais: https://goo.gl/t4bOjT
+    - Peoples’s supermarket: https://goo.gl/HngJey
+    - Roupa Livre: https://goo.gl/7H23qS
+    - Semente urbana: https://goo.gl/3K3Yid
+    - Hortelões urbanos: https://goo.gl/4wX41r
+    - Combate ao desperdício: https://goo.gl/hwP2cc
+    - Artemisia projetos sociais: https://goo.gl/NPndH3
+    - Segunda Chance: https://goo.gl/alXdgh
+    - Nova tecnologias na educação: https://goo.gl/dOZ6xm
+    - Santa Rita do Sapucaí: https://goo.gl/SJpNtF
+    - Dinheiro no lixo: https://goo.gl/EfVMMl
+    - O modelo da Mondragon: https://goo.gl/wqamMu
+    - Tecnologia cívica: https://goo.gl/T83jg2
+    
+- [x] Trabalho 03 - Resumo Capítulo Livro
+    - Gestão da Inovação : A economia da Tecnologia no Brasil
+    
+ - [x] Trabalho 04 - Atividade Prática - Parte II
+    - Atividade presencial em sala de Aula   
+
 
 ## Atividade Prática NP1 - Valor 2,0 - Apresentação 16/09/2022
 
