@@ -61,14 +61,5 @@
     - Atividade presencial em sala de Aula   
 
 
-## Atividade Prática NP1 - Valor 2,0 - Apresentação 16/09/2022
-
-O grupo deverá criar uma empresa inovadora a partir de uma ideia de produto ou serviço (não fale do produto; haverá essa oportunidade em breve).
-
-O grupo deve fazer uma apresentação sobre a empresa, apresentando a área de atuação e explicando se a empresa adotará a estratégia ofensiva ou defensiva.
-
-O tema do trabalho é livre. Os grupos deverão ter no mínimo 3 e no máximo 6 integrantes.
-
-As apresentações ocorrerão no dia 16/09 (em horário de aula). Um integrante do grupo deverá submeter o arquivo no formulário a seguir: https://forms.office.com/r/AeSGZd81Sa
 
 
