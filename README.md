@@ -34,7 +34,11 @@
     - Terceirizado, um trabalhador brasileiro (2015) – https://www.youtube.com/watch?v=iu5Xhu82fzc
     - Lixo extraordinario (2013) – https://www.youtube.com/watch?v=V-
     
- - [x] Trabalho 02 - Seminário
+## Trabalho 02 - Seminário - Entrega Online - Prazo 14/10 (23:45)
+
+- [x]  Instruções: O grupo deve escolher uma matéria e preparar um breve resumo (1 página) com suas próprias palavras. Na sequência, deverão ser apresentados as empresas e os negócios envolvidos na matéria (1 página). 
+
+
     - O banqueiro dos pobres: https://goo.gl/uvXHvi
     - Moedas sociais: https://goo.gl/t4bOjT
     - Peoples’s supermarket: https://goo.gl/HngJey
