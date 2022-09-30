@@ -72,9 +72,12 @@
    
 
     
- - [x] Trabalho 04 - Atividade Prática - Parte II
-    - Atividade presencial em sala de Aula   
-
+## Trabalho 04 - Criação do Produto Inovador - Entrega Online (até 23:45 do dia 27/10) | Apresentação PRESENCIAL na aula de 28/10
+    
+ - [x]  Instruções: Essa atividade é a continuação da atividade apresentada antes da NP1. Os grupos deverão nesse momento utilizar as empresas fícticias que foram criadas e falar especificamente sobre os produtos que serão criados pela empresa e porque esses produtos são considerados inovadores. A ideia é que seja feito algo parecido com o programa Shark Tank.
+ - [ ]  Link do formulário:
+ - [ ]  Importante: Os grupos devem mandar os ppts ANTES das apresentações. Não serão aceitos entregas no dia 28 (por teams ou email). Caso o grupo apresente mas não mande a apresentação no prazo será descontado 1,0 ponto da nota total do trabalho.
+ - [ ]  EXTREMAMENTE IMPORTANTE: TODOS os alunos devem se programar para estar presente nessa aula, pois, nessa data a lista que vocês assinarão é a lista da Prova NP2. Quem não assinar a lista ficará com NP no sistema e terá que fazer a prova SUB (que será uma prova).
 
 
 
