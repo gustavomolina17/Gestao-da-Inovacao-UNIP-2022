@@ -63,9 +63,13 @@
     - Tecnologia cívica: https://goo.gl/T83jg2
     
 ## Trabalho 03 - Resumo Capítulo Livro - Entrega Online - Prazo 28/10 (23:45)
-    - Gestão da Inovação : A economia da Tecnologia no Brasil
+
+ - [x]  Instruções: O grupo deve escolher um capítulo da Parte III - Gestão Da Inovação (Capítulos 9 ao 13) e fazer um resumo de no mínimo 4 páginas, destacando as principais ideias e conceitos do capítulo. Se for detectado plágio ou se o grupo utilizar o texto presente no resumo do capítulo, a atividade será zerada.
     
-    [gestao-da-inovacao-paulo-tigre.pdf](https://github.com/gustavomolina17/Gestao-da-Inovacao-UNIP-2022/files/9684525/gestao-da-inovacao-paulo-tigre.pdf)
+ - [x] link do livro: https://drive.google.com/file/d/1dSJDMgWxO9zgb1eSyP5mhfV7JHvhDxsH/view?usp=sharing 
+
+ - [x] Link do formulário: https://forms.office.com/r/ZiVAmGNmpu
+   
 
     
  - [x] Trabalho 04 - Atividade Prática - Parte II
