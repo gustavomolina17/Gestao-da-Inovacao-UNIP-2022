@@ -37,7 +37,7 @@
 ## Trabalho 02 - Seminário - Entrega Online - Prazo 14/10 (23:45)
 
 - [x]  Instruções: O grupo deve escolher uma matéria e preparar um breve resumo (1 página) com suas próprias palavras. Na sequência, deverão ser apresentados as empresas e os negócios envolvidos na matéria (1 página). 
-
+- [x]  Link do formulário: https://forms.office.com/r/f6AW1ZX39K
 
     - O banqueiro dos pobres: https://goo.gl/uvXHvi
     - Moedas sociais: https://goo.gl/t4bOjT
