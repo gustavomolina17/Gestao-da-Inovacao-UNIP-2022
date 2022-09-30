@@ -28,7 +28,15 @@
 
 ## NP2 - Trabalhos Práticos (2,5 cada trabalho)
 
-- [x]  Trabalho 01 - Atividade sobre o filme
+## Trabalho 01 - Filme - Entrega Online - Prazo 14/10 (23:45)
+
+- [x]  Instruções: O grupo deve escolher um dos filmes da lista abaixo e na sequência:
+    - 1. Escrever com suas próprias palavras a sinopse do filme (se for detectado plágio o trabalho será zerado).
+    - 2. Destaques do grupo: o que lhes chamou a atenção na estória?
+    - 3. Relacionar o tema do filme com os assuntos visto em aula.
+- [x]  Link do formulário:https://forms.office.com/r/YJfxJHy4BH
+    
+ 
     - Capitalismo: uma estória de amor (2009) – https://www.youtube.com/watch?v=FaMRSjiL4IE
     - Carne e osso (2011) – https://www.youtube.com/watch?v=imKw_sbfaf0
     - Terceirizado, um trabalhador brasileiro (2015) – https://www.youtube.com/watch?v=iu5Xhu82fzc
