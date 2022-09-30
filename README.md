@@ -28,7 +28,7 @@
 
 ## NP2 - Trabalhos Práticos (2,5 cada trabalho)
 
- [x]  Importante: Atentem-se aos prazos de entrega de cada atividade. Todas as atividades devem ser feitas em grupos. Não serão aceitas atividades entregues fora do prazo ou enviadas por email e pelo teams.
+ - [x]  Importante: Atentem-se aos prazos de entrega de cada atividade. Todas as atividades devem ser feitas em grupos. Não serão aceitas atividades entregues fora do prazo ou enviadas por email e pelo teams.
 
 ## Trabalho 01 - Filme - Entrega Online - Prazo 14/10 (23:45)
 
