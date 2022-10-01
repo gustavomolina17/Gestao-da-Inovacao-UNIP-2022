@@ -35,7 +35,7 @@
 - [x]  Instruções: O grupo deve escolher um dos filmes da lista abaixo e na sequência:
     - 1. Escrever com suas próprias palavras a sinopse do filme (se for detectado plágio o trabalho será zerado).
     - 2. Destaques do grupo: o que lhes chamou a atenção na estória?
-    - 3. Relacionar o tema do filme com os assuntos visto em aula.
+    - 3. Relacionar o tema do filme com os assuntos visto em aula (Até a aula 03[30/09/2022]).
 - [x]  Link do formulário:https://forms.office.com/r/YJfxJHy4BH
     
  
